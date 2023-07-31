@@ -11,4 +11,4 @@
 
 New code was written
 
-absolutly new function
+there is info master branch
