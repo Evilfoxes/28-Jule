@@ -10,3 +10,5 @@
 Я хочу мало делать и много денег
 
 New code was written
+
+there is a new cod from junior programmer
