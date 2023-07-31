@@ -11,4 +11,4 @@
 
 New code was written
 
-there is a new cod from junior programmer
+absolutly new function
